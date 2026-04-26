@@ -1,2 +1,2 @@
 # frontend-developer
-this is my git frontend repository
+this is my git frontend developer repository.
